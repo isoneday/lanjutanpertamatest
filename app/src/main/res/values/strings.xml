@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Kotlin Lanjutan Pertama</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tell_me_more">Tell me more..</string>
+    <string name="watched_id_in_a_day">I watched it completely in a day</string>
+    <string name="the_best">It\'s the best of the best</string>
+    <string name="email_me_and_say_thanks">Email me and say thanks!</string>
+    <string name="completely_agree">Completely agree buddy :]</string>
+    <string name="my_email">iswandi.saputra11@gmail.com</string>
+    <string name="it_bored_to_death">It bored me to death</string>
+    <string name="im_not_agree">I\'m not agree, but I respect your opinion</string>
+    <string name="my_grandma_thinks_is_cool">My grandma thinks it\'s cool!</string>
+    <string name="tell_me_more_by_email">Tell me more by email</string>
+    <string name="seriously">Seriously?</string>
+    <string name="please_wait">Please wait a bit…</string>
+    <string name="asda">asda</string>
+    <string name="template_email_body">I want say thanks for telling me about %1$s</string>
+    <string name="nohp">+6282311445674</string>
+    <string name="share">share</string>
+    <string name="imdb_profile">link</string>
+
+
+</resources>
