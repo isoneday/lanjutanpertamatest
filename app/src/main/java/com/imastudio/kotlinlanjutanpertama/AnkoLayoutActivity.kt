@@ -14,7 +14,7 @@ class AnkoLayoutActivity : AppCompatActivity() {
 
                 button{
                     text = "galery"
-                    textSize = 23f
+                    textSize = 13f
 
                     onClick {
                         toast("tampil toast")
